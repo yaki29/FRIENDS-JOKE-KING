@@ -1,0 +1,10 @@
+It is a python-kivy screen transition project which uses multiple screen transitions to tell you jokes.
+
+Prerequesites:
+	1. Python 2.7
+	2. Kivy installed 
+
+Press "python main.py" after cloning the repository 
+It will take some time to work on then it gets started
+
+Note: It gives better experience if you use full screen of your laptop screen.
