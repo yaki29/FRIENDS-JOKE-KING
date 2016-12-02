@@ -294,6 +294,7 @@ Builder.load_string('''
 			size_hint: None, None
 			size: self.parent.size
 			allow_stretch: True
+			anim_delay: 0.12
 
 <Ten>:
 	Button:
@@ -309,6 +310,7 @@ Builder.load_string('''
 			size_hint: None, None
 			size: self.parent.size
 			allow_stretch: True
+			anim_delay: 0.12
 
 <Eleven>:
 	Button:
